@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	Entreprise Helper  
+ */
